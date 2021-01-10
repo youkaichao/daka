@@ -25,4 +25,4 @@ Tips:
 2021-1-6 学习markdown、git和python
 
 ## 张昱
-2021-1-6 学习github最最最基础的操作；第一次翻开C++ Primer，阅读至p44
+2021-1-10 学习github最最最基础的操作；第一次翻开C++ Primer，阅读至p44
