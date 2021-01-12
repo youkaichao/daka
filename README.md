@@ -26,6 +26,9 @@ Tips:
 
 ## 刘方舟
 
-2021-1-10 学习Git & Python
+2021-1-10 学习`Git` & `Python`
 
-2021-1-11 学习Python, Esperanto, 科目三 & 科目四
+2021-1-11 学习`Python`, `Esperanto`, 科目三 & 科目四
+
+2021-1-12 学习`C++`, `Esperanto`, 科目三 & 科目四
+
