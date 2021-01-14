@@ -32,4 +32,7 @@ Tips:
 
 2021-1-12 学习`C++`, `Esperanto`, 科目三 & 科目四
 
-2021-1-13 学习`Python`, `C++`, `Esperanto`, `アリス語`, 科目三 & 科目四
+2021-1-13 学习`Python`, `C++`, `Esperanto`, `Alician`, 科目三 & 科目四
+
+2021-1-14 学习`C++`, `Alician`, `Irish`, 科目三
+
