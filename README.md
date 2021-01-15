@@ -36,3 +36,4 @@ Tips:
 
 2021-1-14 学习`C++`, `Alician`, `Irish`, 科目三
 
+2021-1-14 学习`Python`, `Esperanto`, 科目四
