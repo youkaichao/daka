@@ -39,3 +39,5 @@ Tips:
 2021-1-15 学习`Python`, `Esperanto`, 科目四
 
 2021-1-16 学习`Git`, `Python`, `Bash`, `Esperanto`, 科目三 & 科目四
+
+2021-1-17 学习`Python`, `Bash`, 科目四
