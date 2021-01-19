@@ -43,3 +43,5 @@ Tips:
 2021-1-17 学习`Python`, `Bash`, 科目四
 
 2021-1-18 学习`Python`, `Bash`, `Vim`, 科目四
+
+2021-1-19 学习`Python`, `Vim`, `Esperanto`
