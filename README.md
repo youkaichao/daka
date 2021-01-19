@@ -27,3 +27,5 @@ Tips:
 ## 马骐
 
 2021-1-18 学习markdown、git
+
+2021-1-19 学习python
