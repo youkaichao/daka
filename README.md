@@ -45,3 +45,9 @@ Tips:
 2021-1-18 学习`Python`, `Bash`, `Vim`, 科目四
 
 2021-1-19 学习`Python`, `Vim`, `Esperanto`
+
+2021-1-20 学习`Python`, `Vim`, `Esperanto`
+
+> （WSL 2）Vim 使用非默认的 colorscheme 时，浏览代码出现背景变成奇怪颜色的现象。
+>
+> （暂时）解决方式：vsp 一个文件（e.g. ~/.vimrc）。
