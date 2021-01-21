@@ -51,3 +51,7 @@ Tips:
 > （WSL 2）Vim 使用非默认的 colorscheme 时，浏览代码出现背景变成奇怪颜色的现象。
 >
 > （暂时）解决方式：vsp 一个文件（e.g. ~/.vimrc）。
+
+2021-1-21 学习`Python`, `Bash`, `Vim`
+
+> 为什么tmux会掉色（SAN）！
