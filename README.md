@@ -52,6 +52,6 @@ Tips:
 >
 > （暂时）解决方式：vsp 一个文件（e.g. ~/.vimrc）。
 
-2021-1-21 学习`Python`, `Bash`, `Vim`
+2021-1-21 学习`Python`, `Bash`, `Vim`, `Irish`
 
 > 为什么tmux会掉色（SAN）！
