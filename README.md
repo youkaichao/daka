@@ -58,4 +58,5 @@ Tips:
 
 2021-1-22 学习`Python`, `Visual Studio Code`, `Esperanto`
 
-2021-1-23 学习`Git`, `Debugging & Profiling`
+2021-1-23 学习`Git`, `Debugging & Profiling`, 科目四
+
