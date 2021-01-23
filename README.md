@@ -57,3 +57,5 @@ Tips:
 > 为什么tmux会掉色（SAN）！
 
 2021-1-22 学习`Python`, `Visual Studio Code`, `Esperanto`
+
+2021-1-23 学习`Git`, `Debugging & Profiling`
