@@ -55,3 +55,5 @@ Tips:
 2021-1-21 学习`Python`, `Bash`, `Vim`, `Irish`
 
 > 为什么tmux会掉色（SAN）！
+
+2021-1-22 学习`Python`, `Visual Studio Code`, `Esperanto`
