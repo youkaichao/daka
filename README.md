@@ -37,3 +37,5 @@ Tips:
 2021-1-22 学习python
 
 2021-1-23 学习shell
+
+2021-2-24 学习shell、python
