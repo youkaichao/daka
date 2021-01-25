@@ -38,4 +38,6 @@ Tips:
 
 2021-1-23 学习shell
 
-2021-2-24 学习shell、python
+2021-1-24 学习shell、python
+
+2021-1-25 学习vim
