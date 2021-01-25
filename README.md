@@ -61,3 +61,9 @@ Tips:
 2021-1-23 学习`Git`, `Debugging & Profiling`, 科目四
 
 2021-1-24 学习`Metaprogramming`, `Esperanto`, 科目四
+
+2021-1-25 学习科目四
+
+> 梦境：要考数学，预习不完了。
+>
+> 现实：要考科三，预习不完了。
