@@ -73,3 +73,6 @@ Tips:
 2021-1-27 学习`Irish`, 科目三 & 科目四
 
 2021-1-28 学习`Esperanto`, 科目四
+
+2021-1-29 学习`Security & Cryptography`, `Esperanto`, 科目四
+
