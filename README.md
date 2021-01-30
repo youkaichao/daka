@@ -76,3 +76,7 @@ Tips:
 
 2021-1-29 学习`Security & Cryptography`, `Esperanto`, 科目四
 
+2021-1-30 学习`The Missing Semester`, `Esperanto`
+
+> The Missing Semester 完结撒├！内容非常 Wonderful，做课后练习仿佛进入 Purgatorio，学到了许多 Useful 的技能，还有许多内容值得反复体味。
+
