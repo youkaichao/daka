@@ -81,3 +81,5 @@ Tips:
 > The Missing Semester 完结撒├！内容非常 Wonderful，做课后练习仿佛进入 Purgatorio，学到了许多 Useful 的技能，还有许多内容值得反复体味。
 
 2021-1-31 学习`Requests`, `Beautiful Soup`, `Irish`
+
+2021-2-1 学习`Requests`, `Beautiful Soup`, `Regex`, `Scrapy`, `Esperanto`
