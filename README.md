@@ -83,3 +83,7 @@ Tips:
 2021-1-31 学习`Requests`, `Beautiful Soup`, `Irish`
 
 2021-2-1 学习`Requests`, `Beautiful Soup`, `Regex`, `Scrapy`, `Esperanto`
+
+2021-2-2 学习`Scrapy`, `Esperanto`, `Irish`
+
+> 观看《天气之子》
