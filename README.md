@@ -87,3 +87,5 @@ Tips:
 2021-2-2 学习`Scrapy`, `Esperanto`, `Irish`
 
 > 观看《天气之子》
+
+2021-2-3 学习`Linear Algebra`, `Irish`
