@@ -23,3 +23,6 @@ Tips:
 
 ## 游凯超
 2021-1-6 学习markdown、git和python
+
+##陈睿柯
+2021-2-4 学习git、python和英语
