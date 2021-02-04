@@ -89,3 +89,5 @@ Tips:
 > 观看《天气之子》
 
 2021-2-3 学习`Linear Algebra`, `Irish`
+
+2021-2-4 学习`Linear Algebra`, `Irish`
