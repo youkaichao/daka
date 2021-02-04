@@ -22,5 +22,5 @@ Tips:
 # 打卡区
 
 ## Eric
-(Push to origin at 10 PM. everyday)
-2021-2-4 missing-semester(lesson1) 、 C primier plus(Chapter8 Function) 、 学习git中的Forking工作流和Pull Request工作流
+学习笔记记录在[Eric的寒假学习笔记](https://www.zybuluo.com/aeric777/note/1775044)
+2021-2-4 **missing-semester**(lesson1) 、 **C primier plus**(Chapter8) 、 `git`中的`Forking`工作流和`Pull Request`工作流 、 **Markdown**
