@@ -21,5 +21,6 @@ Tips:
 
 # 打卡区
 
-## 游凯超
-2021-1-6 学习markdown、git和python
+## Eric
+(Push to origin at 10 PM. everyday)
+2021-2-4 missing-semester(lesson1) 、 C primier plus(Chapter8 Function) 、 学习git中的Forking工作流和Pull Request工作流
