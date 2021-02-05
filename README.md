@@ -35,9 +35,15 @@ Tips:
 **************************************************
 **2021-2-5**
 计划完成：
-> - [ ] lesson1 exercise
-> - [ ] missing-semester(lesson2) + exercise
+
+> - [x] lesson1 exercise
+> - [x] missing-semester(lesson2) + exercise
 > - [ ] Head first Java
 > - [ ] Cprimier plus(Chapter9)
 <br/>
+
 完成内容：
+
+> - lesson1 exercise
+> - missing-semester(lesson2) + exercise
+> - Cprimier plus(Page 301-321)
