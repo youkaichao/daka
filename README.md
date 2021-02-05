@@ -91,3 +91,5 @@ Tips:
 2021-2-3 学习`Linear Algebra`, `Irish`
 
 2021-2-4 学习`Linear Algebra`, `Irish`
+
+2021-2-5 学习`Linear Algebra`, `Esperanto`, 配置`Visual Studio Code`
