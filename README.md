@@ -41,14 +41,13 @@ Tips:
 > - [ ] Head first Java
 > - [ ] Cprimier plus(Chapter9)
 <br/>
-
 完成内容：
-
 > - lesson1 exercise
 > - missing-semester(lesson2) + exercise
 > - Cprimier plus(Page 301-321)
 
 
+**************************************************
 **2021-2-6**
 
 > - missing-semester(lesson3) + exercise
