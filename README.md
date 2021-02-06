@@ -47,3 +47,11 @@ Tips:
 > - lesson1 exercise
 > - missing-semester(lesson2) + exercise
 > - Cprimier plus(Page 301-321)
+
+
+**2021-2-6**
+
+> missing-semester(lesson3) + exercise
+> 熟悉使用vim进行编程（vimtutor） 
+> 建立并完善自己的[vimrc文档](https://github.com/aeric777/My_vimrc)
+> 尝试在Windows环境下使用Vim，但是感觉配置vimrc文档和添加plugin没有linux方便，遂暂时放弃
