@@ -95,3 +95,5 @@ Tips:
 2021-2-5 学习`Linear Algebra`, `Esperanto`, 配置`Visual Studio Code`
 
 2021-2-6 学习`OOP`, `Esperanto`, 放弃配置`Visual Studio Code`
+
+2021-2-7 学习`OOP`, `Esperanto`, `Japanese`, `Mirage Tank`
