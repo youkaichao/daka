@@ -54,3 +54,14 @@ Tips:
 > - 熟悉使用vim进行编程（vimtutor） 
 > - 建立并完善自己的[vimrc文档](https://github.com/aeric777/My_vimrc)
 > - 尝试在Windows环境下使用Vim，但是感觉配置vimrc文档和添加plugin没有linux方便，遂暂时放弃
+
+
+**************************************************
+**2021-2-7**
+
+> - 局域网远程登陆Linux（桥接模式成功；尝试NAT模式，无奈以失败告终）
+
+**Todo**
+- [ ] 配置vim插件ctrlP
+- [ ] Windows下配置vim
+- [ ] Cprimier Plus(Chapter9)
