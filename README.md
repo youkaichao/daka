@@ -61,7 +61,16 @@ Tips:
 
 > - 局域网远程登陆Linux（桥接模式成功；尝试NAT模式，无奈以失败告终）
 
+
+**************************************************
+**2021-2-8**
+
+> - missing-semester(lesson4)
+> - 配置vim插件ctrlP
+
 **Todo**
-- [ ] 配置vim插件ctrlP
+- [x] Customize CtrlP by adding configuration to your ~/.vimrc to open CtrlP by pressing Ctrl-P.
+- [x] 配置vim插件ctrlP
+- [ ] m-s lesson4 exercise
 - [ ] Windows下配置vim
 - [ ] Cprimier Plus(Chapter9)
