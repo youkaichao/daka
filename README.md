@@ -30,5 +30,5 @@ Tips:
 
 ## Turing0
 
-2021 2-6 学习 git、Lua 简明教程
+2021 2-6 学习 git、Lua 简明教程、看一个 TED 视频。
 
