@@ -48,13 +48,15 @@ Tips:
 
 2021-1-20 学习`Python`, `Vim`, `Esperanto`
 
-> （WSL 2）Vim 使用非默认的 colorscheme 时，浏览代码出现背景变成奇怪颜色的现象。
+> （WSL 2, Ubuntu 20.04 LTS）Vim 使用非默认的 colorscheme 时，浏览代码出现背景变成奇怪颜色的现象。
 >
-> （暂时）解决方式：vsp 一个文件（e.g. ~/.vimrc）。
+> 解决方式1：vsp 一个文件（e.g. ~/.vimrc, 或自身）。
+>
+> 解决方式2：Windows Terminal, yyds!
 
 2021-1-21 学习`Python`, `Bash`, `Vim`, `Irish`
 
-> 为什么tmux会掉色（SAN）！
+> 为什么tmux会掉色（SAN）！Windows Terminal 也拯救不了 qwq
 
 2021-1-22 学习`Python`, `Visual Studio Code`, `Esperanto`
 
@@ -92,8 +94,20 @@ Tips:
 
 2021-2-4 学习`Linear Algebra`, `Irish`
 
+> 观看《春物》第一季
+
 2021-2-5 学习`Linear Algebra`, `Esperanto`, 配置`Visual Studio Code`
 
 2021-2-6 学习`OOP`, `Esperanto`, 放弃配置`Visual Studio Code`
 
 2021-2-7 学习`OOP`, `Esperanto`, `Japanese`, `Mirage Tank`
+
+2021-2-8 学习`OOP`, `Esperanto`
+
+2021-2-9 学习`JavaScript`, `Japanese`
+
+> 观看《春物》第二季
+
+2021-2-10 学习`JavaScript`, `HTML`, `Irish`, `Japanese`
+
+> 接种新冠疫苗，接种了一整天 qwq
