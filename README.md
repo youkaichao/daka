@@ -68,9 +68,13 @@ Tips:
 > - missing-semester(lesson4)
 > - 配置vim插件ctrlP
 
+**2021-2-13**
+
+> - missing-semester(lesson5) + exercise
+> - Linux 用户管理配置
+> - Python（到字符串和编码）
+
 **Todo**
-- [x] Customize CtrlP by adding configuration to your ~/.vimrc to open CtrlP by pressing Ctrl-P.
-- [x] 配置vim插件ctrlP
-- [ ] m-s lesson4 exercise
+- [ ] m-s lesson4（Data Wrangling） exercise
 - [ ] Windows下配置vim
 - [ ] Cprimier Plus(Chapter9)
