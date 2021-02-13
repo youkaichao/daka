@@ -111,3 +111,14 @@ Tips:
 2021-2-10 学习`JavaScript`, `HTML`, `Irish`, `Japanese`
 
 > 接种新冠疫苗，接种了一整天 qwq
+
+2021-2-11 学习`JavaScript`, `HTML`
+
+2021-2-12 学习`Calculus`, `Japanese`
+
+> 阅读《世界语言史》
+
+2021-2-13 学习`Calculus`, `Japanese`
+
+> 果然，数学才是真正的治愈之风
+
