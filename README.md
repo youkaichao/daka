@@ -75,6 +75,13 @@ Tips:
 > - Python（到字符串和编码）
 
 **Todo**
-- [ ] m-s lesson4（Data Wrangling） exercise
+- [ ] 修改prompt
+- [ ] git dotfile
+- [ ] 重新安装VM，并使用git配置完成Dotfiles.
+- [ ] 检查exercise5是否完成
+- [ ] exercise4
 - [ ] Windows下配置vim
 - [ ] Cprimier Plus(Chapter9)
+- [x] 完成用户群组管理笔记
+
+
