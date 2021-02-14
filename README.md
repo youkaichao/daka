@@ -68,20 +68,34 @@ Tips:
 > - missing-semester(lesson4)
 > - 配置vim插件ctrlP
 
+
+**************************************************
 **2021-2-13**
 
 > - missing-semester(lesson5) + exercise
 > - Linux 用户管理配置
 > - Python（到字符串和编码）
 
+
+**************************************************
+**2021-2-14**
+> - [x] 修改prompt
+> - [x] 检查exercise5是否完成
+> - [x] 完成用户群组管理笔记
+> - [x] 修改Xshell  配色方案
+> - [x] missing-semester(lesson6)
+> - [x] 在linux上管理配置Git
+
+
 **Todo**
-- [ ] 修改prompt
-- [ ] git dotfile
+- [ ] erercise6
+- [ ] git dotfile（推迟到m-s lesson6）
 - [ ] 重新安装VM，并使用git配置完成Dotfiles.
-- [ ] 检查exercise5是否完成
-- [ ] exercise4
+
+
+- [ ] exercise4(Regex)
 - [ ] Windows下配置vim
 - [ ] Cprimier Plus(Chapter9)
-- [x] 完成用户群组管理笔记
+
 
 
