@@ -86,6 +86,7 @@ Tips:
 **2021-2-15**
 > - [x] git dotfile
 > - [x] 重新安装VM，并使用git配置完成dotfiles.
+> - [x] 将daka的repo移动到Linux.
 
 
 **Todo**
