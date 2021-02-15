@@ -24,6 +24,7 @@ Tips:
 ## Eric
 学习笔记记录在[Eric的寒假学习笔记](https://www.zybuluo.com/aeric777/note/1775044)同步更新</br>
 
+
 **************************************************
 **2021-2-4**</br>
 - missing-semester(lesson1)
@@ -32,17 +33,9 @@ Tips:
 - Markdown
 <br/>
 
+
 **************************************************
 **2021-2-5**
-计划完成：
-
-> - [x] lesson1 exercise
-> - [x] missing-semester(lesson2) + exercise
-> - [ ] Head first Java
-> - [ ] Cprimier plus(Chapter9)
-<br/>
-
-完成内容：
 
 > - lesson1 exercise
 > - missing-semester(lesson2) + exercise
@@ -89,15 +82,15 @@ Tips:
 > - [x] 在linux上管理配置Git
 
 
+**************************************************
+**2021-2-15**
+> - [x] git dotfile
+> - [x] 重新安装VM，并使用git配置完成dotfiles.
+
+
 **Todo**
+- [ ] exercise4(Regex )
 - [ ] erercise6
-- [ ] git dotfile（推迟到m-s lesson6）
-- [ ] 重新安装VM，并使用git配置完成Dotfiles.
 
-
-- [ ] exercise4(Regex)
-- [ ] Windows下配置vim
 - [ ] Cprimier Plus(Chapter9)
-
-
-
+- [ ] Python3
