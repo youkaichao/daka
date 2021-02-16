@@ -89,9 +89,14 @@ Tips:
 > - [x] 将daka的repo移动到Linux.
 
 
-**Todo**
-- [ ] exercise4(Regex )
-- [ ] erercise6
+**************************************************
+**2021-2-15**
+> - [x] 'Git Pro'-Chapter1 to Chapter2
+> - [x] Modified .gitconfig  
+> - [x] exercise4(Regex )
+> - [x] erercise6
 
+
+**Todo**
 - [ ] Cprimier Plus(Chapter9)
 - [ ] Python3
