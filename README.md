@@ -26,12 +26,12 @@ Tips:
 
 
 **************************************************
-**2021-2-4**</br>
-- missing-semester(lesson1)
-- C primier plus(Chapter8)
-- `git`中的`Forking`工作流和`Pull Request`工作流
-- Markdown
-<br/>
+**2021-2-4**
+
+> - missing-semester(lesson1)
+> - C primier plus(Chapter8)
+> - `git`中的`Forking`工作流和`Pull Request`工作流
+> - Markdown
 
 
 **************************************************
@@ -74,6 +74,7 @@ Tips:
 
 **************************************************
 **2021-2-14**
+
 > - [x] 修改prompt
 > - [x] 检查exercise5是否完成
 > - [x] 完成用户群组管理笔记
@@ -84,19 +85,28 @@ Tips:
 
 **************************************************
 **2021-2-15**
+
 > - [x] git dotfile
 > - [x] 重新安装VM，并使用git配置完成dotfiles.
 > - [x] 将daka的repo移动到Linux.
 
 
 **************************************************
-**2021-2-15**
+**2021-2-16**
+
 > - [x] 'Git Pro'-Chapter1 to Chapter2
 > - [x] Modified .gitconfig  
 > - [x] exercise4(Regex )
 > - [x] erercise6
 
 
+**************************************************
+**2021-2-17**
+
+> -[x] GitPro (Chapter 3-branch) + note
+
+
 **Todo**
+- [ ] Missing-semester (lesson 7) + exercise
 - [ ] Cprimier Plus(Chapter9)
 - [ ] Python3
