@@ -106,7 +106,13 @@ Tips:
 > - [x] GitPro (Chapter 3-branch) + note
 
 
+**************************************************
+**2021-2-17**
+
+> - [x] mession-semeester (lesson-7) + exercise
+
+
 **Todo**
-- [ ] Missing-semester (lesson 7) + exercise
+- [ ] Missing-semester (lesson 8) + exercise
 - [ ] Cprimier Plus(Chapter9)
 - [ ] Python3
