@@ -107,12 +107,24 @@ Tips:
 
 
 **************************************************
-**2021-2-17**
+**2021-2-18**
 
 > - [x] mession-semeester (lesson-7) + exercise
 
 
+**************************************************
+**2021-2-19**
+
+> - [x] mession-semeester (lesson-8) + exercise
+
+
+**************************************************
+**2021-2-20**
+
+> - [x] mession-semeester (lesson-9) + exercise
+
+
 **Todo**
-- [ ] Missing-semester (lesson 8) + exercise
+- [ ] Missing-semester (lesson 10) + exercise
 - [ ] Cprimier Plus(Chapter9)
 - [ ] Python3
