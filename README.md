@@ -24,7 +24,7 @@ Tips:
 ## 游凯超
 2021-1-6 学习markdown、git和python
 
-## Turing
+## 谭逍遥
 
 2021 2-6 学习 git、Lua 简明教程、看一个 TED 视频。
 
