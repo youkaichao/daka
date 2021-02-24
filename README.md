@@ -124,7 +124,8 @@ Tips:
 > - [x] mession-semeester (lesson-9) + exercise
 
 
-**Todo**
-- [ ] Missing-semester (lesson 10) + exercise
-- [ ] Cprimier Plus(Chapter9)
-- [ ] Python3
+**************************************************
+**2021-2-24**
+
+> - [x] mession-semeester (lesson-10) + exercise
+> - [x] mession-semeester (lesson-11) 
